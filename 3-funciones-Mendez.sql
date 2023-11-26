@@ -1,3 +1,4 @@
+use projectpilot;
 DELIMITER //
 
 CREATE FUNCTION `f_obtener_nombre_cliente` (p_id_cliente int)
